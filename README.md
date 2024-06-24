@@ -65,15 +65,13 @@ app.get("/pet", function (req, res) {
 
 ### 강의
 
-- 코딩애플
+- 코딩애플 [https://youtu.be/pTm5E3jcOeY?si=PDDn7leIFBWiGMWy](https://youtu.be/pTm5E3jcOeY?si=PDDn7leIFBWiGMWy)
 
 코딩애플의 '2시간만에 웹서버 쉽게 개발하기 (Node.js+MongoDB)'
 
 일부 강의만 유튜브이고, 나머지는 강의수강을 해야 볼 수 있음
 
 [https://codingapple.com/](https://codingapple.com/)
-
-[https://youtu.be/pTm5E3jcOeY?si=PDDn7leIFBWiGMWy](https://youtu.be/pTm5E3jcOeY?si=PDDn7leIFBWiGMWy)
 
 - 생활코딩
 https://youtu.be/3RS_A87IAPA?si=rJ4vidr40KfSPLbX
